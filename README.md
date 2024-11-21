@@ -44,7 +44,7 @@ A Community Guide to getting all your Accessories, Games, Emulators, and Gaming 
 
 Lenovo Legion Go device. Source: [Lenovo Legion Go](https://www.lenovo.com/legiongo/)
 
-**ASUS ROG Ally Specs:**
+**Legion Go Specs:**
 
 * **Dimensions (L x W x H) Base Module: (mm):** 210mm x 131mm x 20mm (inches): 8.27″ x 5.15″ x 0.79”  . 
 * **Base Module w/ Controllers Attached: (mm):** 299mm x 131mm x 41mm (inches): 11.8” x 5.15” x 1.61”.
